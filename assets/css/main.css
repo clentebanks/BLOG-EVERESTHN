@@ -1300,7 +1300,7 @@ section {
 }
 
 .slide-1{
-  background-image:url('/assets/img/post-slide-1.jpg');
+  background-image:url('/assets/img/post-slide-1.png');
 }
 .slide-2{
   background-image:url('/assets/img/post-slide-2.jpg');
@@ -1311,3 +1311,4 @@ section {
 .slide-4{
   background-image:url('/assets/img/post-slide-4.jpg');
 }
+
