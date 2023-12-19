@@ -1,0 +1,7 @@
+lo que falta en block 
+
+* newsletter
+* buscador en la pagina
+* Seccion de cantacto
+* videos
+* seccion de comentarios de facebook
