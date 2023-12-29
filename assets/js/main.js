@@ -152,3 +152,6 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 });
+
+/***************paginacion de categorias **************/
+
