@@ -1312,3 +1312,9 @@ section {
   background-image:url('/assets/img/rocketbooklarge.png');
 }
 
+.comprar {
+  background-color: #FF9900; /* Color naranja de Amazon */
+  }
+.comprar:hover {
+          opacity: 0.8;
+          }
