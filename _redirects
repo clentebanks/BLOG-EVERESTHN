@@ -1,0 +1,6 @@
+# Redirect all HTTP traffic to HTTPS www
+http://everesthnblog.store/* https://www.everesthnblog.store/:splat 301!
+http://www.everesthnblog.store/* https://www.everesthnblog.store/:splat 301!
+https://everesthnblog.store/* https://www.everesthnblog.store/:splat 301!
+
+# You can add other redirects below if needed
